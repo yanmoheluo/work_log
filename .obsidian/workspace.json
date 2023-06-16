@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "工作日志/202306/2023-06-16_周五.md",
+                "file": "00inbox/git相互切换ssh和http协议(一看就懂版).md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:出版",
+                "query": "git",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -82,7 +82,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -102,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "工作日志/202306/2023-06-16_周五.md",
+                "file": "00inbox/git相互切换ssh和http协议(一看就懂版).md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -119,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "工作日志/202306/2023-06-16_周五.md",
+                "file": "00inbox/git相互切换ssh和http协议(一看就懂版).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "工作日志/202306/2023-06-16_周五.md"
+                "file": "00inbox/git相互切换ssh和http协议(一看就懂版).md"
               }
             }
           },
@@ -172,13 +173,13 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "2c8b763ac36a03ea",
+  "active": "3d0183bf748a23c9",
   "lastOpenFiles": [
+    "工作日志/202306/2023-06-16_周五.md",
     "README.md.baiduyun.uploading.cfg",
     "README.md",
     "工作日志/202306/2023-06-16_周五.md.baiduyun.uploading.cfg",
     "工作日志/202306/2023-06索引.md",
-    "工作日志/202306/2023-06-16_周五.md",
     "工作日志/202306/2023-06索引.md.baiduyun.uploading.cfg",
     "工作日志/202306/2023-06-14_周三.md",
     "工作日志/202306/2023-06-14_周三.md.baiduyun.uploading.cfg",
@@ -198,7 +199,6 @@
     "00inbox/GoodSync新用户快速入门学习篇.md",
     "00inbox/GoodSync新用户快速入门学习篇.md.baiduyun.uploading.cfg",
     "_gsdata_/2023-0614-092807-DESKTOP-R2JRU99-work_log.log.baiduyun.uploading.cfg",
-    "_gsdata_/_insync_v4.gsl",
     "工作日志/202306/2023-06-05_周一.md",
     "工作日志/2023工作日志.md",
     "手册&教程/编辑器使用手册/obsidian使用教程/Obsidian系列教程（一）：安装与设置.md",
