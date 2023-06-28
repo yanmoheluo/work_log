@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "关于微信APP支付，提示支付验证签名失败",
-      "path": "API/支付接口/微信/关于微信APP支付，提示支付验证签名失败.md"
+      "basename": "推荐书籍",
+      "path": "读书笔记/推荐书籍.md"
     },
     {
-      "basename": "微信支付 全网最全v2接口签名报错排查指引！！！！",
-      "path": "API/支付接口/微信/微信支付 全网最全v2接口签名报错排查指引！！！！.md"
+      "basename": "帛书老子",
+      "path": "读书笔记/帛书老子.md"
+    },
+    {
+      "basename": "《道德经》帛书版全文（对比传世版）",
+      "path": "读书笔记/《道德经》帛书版全文（对比传世版）.md"
+    },
+    {
+      "basename": "买书必备出版社大全！",
+      "path": "读书笔记/买书必备出版社大全！.md"
+    },
+    {
+      "basename": "2023-06-17_周六",
+      "path": "工作日志/202306/2023-06-17_周六.md"
+    },
+    {
+      "basename": "关于微信APP支付，提示支付验证签名失败",
+      "path": "API/支付接口/微信/关于微信APP支付，提示支付验证签名失败.md"
     },
     {
       "basename": "申请开通微信支付教程",
@@ -19,10 +35,6 @@
     {
       "basename": "浅谈微信公众平台和微信开放平台的区别",
       "path": "API/支付接口/微信/浅谈微信公众平台和微信开放平台的区别.md"
-    },
-    {
-      "basename": "2023-06-17_周六",
-      "path": "工作日志/202306/2023-06-17_周六.md"
     },
     {
       "basename": "2023-06-16_周五",
@@ -73,16 +85,8 @@
       "path": "00inbox/比较靠谱的出版社.md"
     },
     {
-      "basename": "买书必备出版社大全！",
-      "path": "读书笔记/买书必备出版社大全！.md"
-    },
-    {
       "basename": "人生没有什么不可以放下-弘一法师",
       "path": "读书笔记/人生没有什么不可以放下-弘一法师.md"
-    },
-    {
-      "basename": "推荐书籍",
-      "path": "读书笔记/推荐书籍.md"
     },
     {
       "basename": "2023-06-13_周二",
@@ -159,46 +163,6 @@
     {
       "basename": "忽略特殊文件",
       "path": "手册&教程/Git手册/忽略特殊文件.md"
-    },
-    {
-      "basename": "2023-06-09_周五",
-      "path": "工作日志/202306/2023-06-09_周五.md"
-    },
-    {
-      "basename": "循环",
-      "path": "学习笔记/python笔记/python基础/循环.md"
-    },
-    {
-      "basename": "条件判断",
-      "path": "学习笔记/python笔记/python基础/条件判断.md"
-    },
-    {
-      "basename": "tuple",
-      "path": "学习笔记/python笔记/python基础/内置函数/tuple.md"
-    },
-    {
-      "basename": "list",
-      "path": "学习笔记/python笔记/python基础/内置函数/list.md"
-    },
-    {
-      "basename": "格式化",
-      "path": "学习笔记/python笔记/python基础/格式化.md"
-    },
-    {
-      "basename": "len()",
-      "path": "学习笔记/python笔记/python基础/内置函数/len().md"
-    },
-    {
-      "basename": "decode()",
-      "path": "学习笔记/python笔记/python基础/内置函数/decode().md"
-    },
-    {
-      "basename": "encode()",
-      "path": "学习笔记/python笔记/python基础/内置函数/encode().md"
-    },
-    {
-      "basename": "字符编码",
-      "path": "学习笔记/python笔记/python基础/字符编码.md"
     }
   ],
   "omittedPaths": [],
